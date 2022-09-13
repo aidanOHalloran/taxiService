@@ -81,7 +81,7 @@ namespace capTaxiBackEnd
                 newDriver.Vehicle.VehicleMaintDate = new DateTime();
                 DateTime tempDT = new DateTime(); 
                 
-                System.Console.WriteLine("Press enter to assign ID's: ");
+                System.Console.WriteLine("Press enter to assign ID's: "); //logic for creating unique ID's
                 Console.ReadLine();
 
                 try
@@ -118,7 +118,7 @@ namespace capTaxiBackEnd
                 newDriver.Vehicle.VehicleID = intVehicleID.ToString();
 
                 System.Console.WriteLine($"Driver ID: {newDriver.ID}");
-                System.Console.WriteLine($"Vehicle ID: {newDriver.Vehicle.VehicleID}v");
+                System.Console.WriteLine($"Vehicle ID: {newDriver.Vehicle.VehicleID}v"); //end logic to create unique ID's
 
                 System.Console.WriteLine("Enter a name: ");
                 newDriver.Name = Console.ReadLine();
