@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3brUqbYeBjw5BluM1cGaqq34ya3tEaqi0PqXd0dUqd5f3YaDEvfeaQxaTWXs+nsFmIjOdCWUvM73cNaFEOMSVQ==",
+  "success": true,
+  "projectFilePath": "/Users/aidanohalloran/Desktop/realPA1/taxiService/taxiService.csproj",
+  "expectedPackageFiles": [
+    "/Users/aidanohalloran/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

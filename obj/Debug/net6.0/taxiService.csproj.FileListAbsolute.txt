@@ -1,0 +1,17 @@
+/Users/aidanohalloran/Desktop/realPA1/taxiService/bin/Debug/net6.0/taxiService
+/Users/aidanohalloran/Desktop/realPA1/taxiService/bin/Debug/net6.0/taxiService.deps.json
+/Users/aidanohalloran/Desktop/realPA1/taxiService/bin/Debug/net6.0/taxiService.runtimeconfig.json
+/Users/aidanohalloran/Desktop/realPA1/taxiService/bin/Debug/net6.0/taxiService.dll
+/Users/aidanohalloran/Desktop/realPA1/taxiService/bin/Debug/net6.0/taxiService.pdb
+/Users/aidanohalloran/Desktop/realPA1/taxiService/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.csproj.AssemblyReference.cache
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.AssemblyInfoInputs.cache
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.AssemblyInfo.cs
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.csproj.CoreCompileInputs.cache
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.csproj.CopyComplete
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.dll
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/ref/taxiService.dll
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.pdb
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/taxiService.genruntimeconfig.cache
+/Users/aidanohalloran/Desktop/realPA1/taxiService/obj/Debug/net6.0/refint/taxiService.dll
